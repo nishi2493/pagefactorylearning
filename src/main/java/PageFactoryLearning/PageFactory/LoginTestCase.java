@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 
-
+//new commit added
 public class LoginTestCase {
 
 	public static void main(String args[])
